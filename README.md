@@ -12,7 +12,7 @@
 <table>
 <tr>
 <td width="280">
-<img src="./side-art.png" width="260" alt="art" />
+<img src="./side-art.jpg" width="260" alt="art" />
 </td>
 <td>
 
